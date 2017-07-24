@@ -1,2 +1,5 @@
 # bootstrapstudio
-VersiÃ³n en espaÃ±ol del editor Bootstrapstidio
+Versión en español del editor Bootstrapstidio
+
+Este es un resumen de los aprendizajes del Bootstrapstudio.
+La documentación original está en https://bootstrapstudio.io/tutorials/ 

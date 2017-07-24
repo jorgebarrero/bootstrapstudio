@@ -1,0 +1,1 @@
+Este documento contiene los detalles del proyecto y notas especiales
